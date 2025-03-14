@@ -1,0 +1,39 @@
+_repo: Was-I-right_75393
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Walton, O. F., Mrs.
+    aliases:
+    - Walton, Amy Catherine
+    - Deck, Amy Catherine
+    - Walton, Mrs O. F.
+    - Walton, Octavius Frank, Mrs.
+    - Walton, Mrs. O. F.
+    birthdate: 1849
+    deathdate: 1939
+    gutenberg_agent_id: '2468'
+    url: http://www.gutenberg.org/2009/agents/2468
+    wikipedia: https://en.wikipedia.org/wiki/Amy_Catherine_Walton
+description: ''
+gutenberg_issued: '2025-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75393'
+language: en
+pgterms:marc905: 20250106075915walton
+pgterms:marc906: '1884'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bThe Religious Tract Society, $c1884.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Mate selection -- Fiction'
+- !lcsh 'Paid companions (Household employees) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Was I right?
+url: http://www.gutenberg.org/ebooks/75393
