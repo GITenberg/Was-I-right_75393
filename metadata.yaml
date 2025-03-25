@@ -1,5 +1,8 @@
 _repo: Was-I-right_75393
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Walton, O. F., Mrs.
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2468
     wikipedia: https://en.wikipedia.org/wiki/Amy_Catherine_Walton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75393#Was-I-right
 gutenberg_issued: '2025-02-17'
 gutenberg_type: Text
 identifiers:
